@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(87, 86, 86);
+}
+.section{
+    display: none;
+}
+p{
+    text-align: center;
+    font-size: 100px;
+}
+
+.close{
+    display: inline;
+}
